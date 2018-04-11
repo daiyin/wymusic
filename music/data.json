@@ -1,0 +1,204 @@
+{
+  "musicimg": {
+    "supports": [
+      {
+        "music_1": "src/assets/music_1.jpg"
+      },
+      {
+        "music_1": "src/assets/music_2.jpg"
+      },
+      {
+        "music_1": "src/assets/music_3.jpg"
+      },
+      {
+        "music_1": "src/assets/music_4.jpg"
+      },
+      {
+        "music_1": "src/assets/music_5.jpg"
+      }
+      ,
+      {
+        "music_1": "src/assets/music_6.jpg"
+      }
+      ,
+      {
+        "music_1": "src/assets/music_7.jpg"
+      }
+    ],
+    "tuijianbg": [
+      {
+        "music_1": "src/assets/tj_1.jpeg",
+        "text": "华语︱情话是一门失传的艺术",
+        "company": 30
+      },
+      {
+        "music_1": "src/assets/tj_2.jpeg",
+        "text": "「东方※星灵轻电」徜徉熹微尘隙",
+        "company": 17
+      },
+      {
+        "music_1": "src/assets/tj_3.jpeg",
+        "text": "「森窒抑香」独绝柔情的香气溢身",
+        "company": 13
+      },
+      {
+        "music_1": "src/assets/tj_4.jpeg",
+        "text": "陶立夏：时间过去了，我们谁也没有站在等候",
+        "company": 22
+      },
+      {
+        "music_1": "src/assets/tj_8.jpeg",
+        "text": "『Overwatch』鬼畜合集鬼畜合集",
+        "company": 16
+      }
+      ,
+      {
+        "music_1": "src/assets/tj_6.jpeg",
+        "text": "等你学会这道菜，妈妈才能放心让你离家",
+        "company": 19
+      }
+    ],
+    "newMusic": [
+      {
+        "music_1": "src/assets/newmusic.jpeg",
+        "text": "『韩语·治愈』我没有很难过",
+        "company": 22
+      },
+      {
+        "music_1": "src/assets/newmusic_1.jpeg",
+        "text": "洞箫精选｜一曲洞箫吹向月，夜深惊起海中乌",
+        "company": 15
+      },
+      {
+        "music_1": "src/assets/newmusic_2.jpeg",
+        "text": " 清澈惬心 | 胧月里的一抹温暖和煦",
+        "company": 32
+      },
+      {
+        "music_1": "src/assets/newmusic_3.jpeg",
+        "text": " 【喵老师ASMR】敲击音/30分钟芦荟胶",
+        "company": 20
+      },
+      {
+        "music_1": "src/assets/newmusic_4.jpeg",
+        "text": "是什么让你的心变得冰冷而坚硬？",
+        "company": 18
+      }
+      ,
+      {
+        "music_1": "src/assets/newmusic_5.jpeg",
+        "text": " 幸福，就是有一个人可以惦记",
+        "company": 11
+      }
+    ],
+    "playmusic": {
+      "playmusicimg": "src/assets/xiaoao.jpeg",
+      "playmusicsrc": "src/music/xiaoao.mp3",
+      "playmusiclyrics": "胡伟立",
+      "playmusicname": "笑傲江湖琴箫合奏",
+      "player": [
+        {
+          "musicimages": "src/assets/xiaoao.jpeg",
+          "musicsrc": "src/music/xiaoao.mp3",
+          "singer": "胡伟立",
+          "playname": "笑傲江湖琴箫合奏"
+        },
+        {
+          "musicimages": "src/assets/fengchuimailang.jpeg",
+          "musicsrc": "src/music/fengchuimailang.mp3",
+          "singer": "孙俪 李健",
+          "playname": "风吹麦浪"
+        },
+        {
+          "musicimages": "src/assets/lingduhuoshan.jpeg",
+          "musicsrc": "src/music/lingduhuoshan.mp3",
+          "singer": "毒药",
+          "playname": "零度火山"
+        },
+        {
+          "musicimages": "src/assets/pingfanzhilu.jpeg",
+          "musicsrc": "src/music/pingfanzhilu.mp3",
+          "singer": "朴树",
+          "playname": "平凡之路"
+        },
+        {
+          "musicimages": "src/assets/qijianzhange.jpeg",
+          "musicsrc": "src/music/qijianzhange.mp3",
+          "singer": "川井憲次",
+          "playname": "七剑战歌"
+        },
+        {
+          "musicimages": "src/assets/tianlongbabu.jpeg",
+          "musicsrc": "src/music/tianlongbabu.mp3",
+          "singer": "天龙八部",
+          "playname": "天龙八部"
+        },
+        {
+          "musicimages": "src/assets/wangnilewangniwo.jpeg",
+          "musicsrc": "src/music/wangnilewanglewo.mp3",
+          "singer": "王杰",
+          "playname": "忘了你忘了我"
+        },
+        {
+          "musicimages": "src/assets/wdi.jpeg",
+          "musicsrc": "src/music/wudi.mp3",
+          "singer": "邓超",
+          "playname": "无敌"
+        },
+        {
+          "musicimages": "src/assets/xiangtian.jpeg",
+          "musicsrc": "src/music/xiangtian.mp3",
+          "singer": "韩磊",
+          "playname": "向天再借五百年"
+        },
+        {
+          "musicimages": "src/assets/xiaosa.jpeg",
+          "musicsrc": "src/music/xiaosazouyihui.mp3",
+          "singer": "叶倩文",
+          "playname": "潇洒走一回"
+        },
+        {
+          "musicimages": "src/assets/yongyuan.jpeg",
+          "musicsrc": "src/music/yongyuanbuhuitou.mp3",
+          "singer": "张雨生 / 王杰 / 姚可杰 / 邰正宵",
+          "playname": "永远不回头"
+        }
+
+      ]
+    },
+    "establish" : {
+        "mylove" : [
+            {
+                "myloveimg": "src/assets/xiaosa.jpeg",
+                "myloveimgs": "102",
+                "lovename": "我喜欢的音乐"
+            },
+            {
+                "myloveimg": "src/assets/newmusic_1.jpeg",
+                "myloveimgs": "52",
+                "lovename": "周杰伦"
+            },
+            {
+                "myloveimg": "src/assets/newmusic_2.jpeg",
+                "myloveimgs": "22",
+                "lovename": "林俊杰"
+            },
+            {
+                "myloveimg": "src/assets/newmusic_3.jpeg",
+                "myloveimgs": "76",
+                "lovename": "许巍"
+            },
+            {
+                "myloveimg": "src/assets/newmusic_4.jpeg",
+                "myloveimgs": "50",
+                "lovename": "朴树"
+            },
+            {
+                "myloveimg": "src/assets/newmusic_5.jpeg",
+                "myloveimgs": "38",
+                "lovename": "非主流"
+            }
+        ]
+    }
+  }
+}

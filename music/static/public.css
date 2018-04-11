@@ -1,0 +1,13 @@
+html {
+  font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+}
+a {
+  text-decoration: none;
+}
+* {
+  margin: 0 ;
+  padding: 0;
+}
+li {
+  list-style: none;
+}

@@ -1,0 +1,169 @@
+@font-face {
+  font-family: 'music_icon';
+  src:  url('fonts/music_icon.eot?rgo31u');
+  src:  url('fonts/music_icon.eot?rgo31u#iefix') format('embedded-opentype'),
+    url('fonts/music_icon.ttf?rgo31u') format('truetype'),
+    url('fonts/music_icon.woff?rgo31u') format('woff'),
+    url('fonts/music_icon.svg?rgo31u#music_icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'music_icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dqxh:before {
+  content: "\e92a";
+  font-size: 27px;
+}
+.icon-sjbf:before {
+  content: "\e92b";
+}
+.icon-jt:before {
+  content: "\e928";
+  color: #666;
+}
+.icon-jinbi:before {
+  content: "\e929";
+}
+.icon-scj:before {
+  content: "\e924";
+}
+.icon-xunhuan:before {
+  content: "\e925";
+}
+.icon-sc:before {
+  content: "\e926";
+}
+.icon-fx:before {
+  content: "\e927";
+}
+.icon-play:before {
+  content: "\e901";
+}
+.icon-dt:before {
+  content: "\e902";
+}
+.icon-ds:before {
+  content: "\e903";
+  color: #929292;
+}
+.icon-fdj:before {
+  content: "\e904";
+}
+.icon-分类:before {
+  content: "\e905";
+}
+.icon-fj:before {
+  content: "\e906";
+}
+.icon-gd:before {
+  content: "\e907";
+  color: #666;
+}
+.icon-more:before {
+  content: "\e908";
+}
+.icon-gwc:before {
+  content: "\e909";
+  font-size: 35px;
+  margin-left: -9px;
+}
+.icon-friend:before {
+  content: "\e90a";
+}
+.icon-htjt:before {
+  content: "\e90b";
+}
+.icon-hf:before {
+  content: "\e90c";
+}
+.icon-vip:before {
+  content: "\e90d";
+}
+.icon-lb:before {
+  content: "\e90e";
+}
+.icon-phb:before {
+  content: "\e90f";
+}
+.icon-paihangbang:before {
+  content: "\e910";
+}
+.icon-friend:before {
+  content: "\e911";
+}
+.icon-pl:before {
+  content: "\e912";
+}
+.icon-sys:before {
+  content: "\e913";
+}
+.icon-syq:before {
+  content: "\e914";
+}
+.icon-sz:before {
+  content: "\e915";
+}
+.icon-shoucang:before {
+  content: "\e916";
+}
+.icon-shudian:before {
+  content: "\e917";
+}
+.icon-tgsq:before {
+  content: "\e918";
+}
+.icon-tc:before {
+  content: "\e919";
+}
+.icon-logo:before {
+  content: "\e91a";
+}
+.icon-wdsc:before {
+  content: "\e91b";
+  font-weight: bold;
+}
+.icon-xyq:before {
+  content: "\e91c";
+}
+.icon-xz:before {
+  content: "\e91d";
+  font-weight: bold;
+}
+.icon-xf:before {
+  content: "\e91e";
+}
+.icon-musics:before {
+  content: "\e91f";
+  font-weight: bold;
+}
+.icon-zhanting:before {
+  content: "\e920";
+}
+.icon-fm:before {
+  content: "\e921";
+}
+.icon-iconfont-gedan:before {
+  content: "\e922";
+  color: #e31c1d;
+}
+.icon-MY-yjms:before {
+  content: "\e923";
+}
+.icon-ej:before {
+  content: "\e900";
+  color: #fff;
+}
